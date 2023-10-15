@@ -13,7 +13,7 @@
 
 # VCT 2023 Champions Analysis
 
-**Probability a team wins win a map**
+**Probability a team wins a map**
 
 *Posted on August 2023*
 
